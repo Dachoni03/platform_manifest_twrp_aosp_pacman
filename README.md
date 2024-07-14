@@ -66,3 +66,4 @@ The build target is dependent on the device, and should reflect the location of 
 ### Special Notes for this branch
 - Device makefile in the device tree and dependencies file should use the "twrp" prefix.
 - FDE decryption is not presently supported in this branch.
+- Now supports and Android 14
